@@ -1,9 +1,5 @@
 # Hybrid Deep Learning and Machine Learning with VAE-Based Imputation for Skin Lesion Classification on PAD-UFES-20
 
-## Research Paper
-- Springer Nature: https://drive.google.com/file/d/1DljTlaLhEqGD4qTH5OycEbgBEMUzPjMd/view?usp=sharing 
-- IEEE: https://drive.google.com/file/d/1gmR7NaBPCKh-ICrXMm-z0bX4t2mKS45Y/view?usp=sharing
-
 ## Dataset:
 - PAD-UFES-20: https://www.kaggle.com/datasets/pssingh1434131/pad-ufes-20/
 
